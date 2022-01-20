@@ -48,7 +48,8 @@ footer {
 footer #copy {
     font-size: 1rem;
     margin: 0;
-    display: inline;   
+    display: inline;
+    float: left;
 }
 footer section {
     float: right ;
